@@ -20,3 +20,17 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+#Mac OS
+.DS_Store
+#Windows
+Thumbs.db
+ehthumbs.db
+#Visual Studio Code
